@@ -16,6 +16,7 @@ function skor_terbesar($arr){
     echo "<pre>";
     print_r($arrbesar);
     echo "</pre>";
+    echo "sadasd";
 
 }
 
